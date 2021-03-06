@@ -2,7 +2,7 @@
 
 ## Tools Used
 
-* hd-walet-derive (PHP)
+* hd-wallet-derive (PHP)
 * bit - *Python Bitcoin Library*
 * web3.py -  *Python Ethereum Library*
 * Bitcoin Tesnet Block Explorer
